@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @CodeTigerCloud
-- 👀 I’m interested in big melons
-- 🌱 I’m currently learning economics
-- 💞️ I’m looking to collaborate on money
+- 🌱 I’m currently learning web development
 - 📫 How to reach me: open an issue here
 
 <!---
