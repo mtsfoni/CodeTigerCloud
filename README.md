@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mike Zadik,
-- 🌱 I’m a co-maintainer of of the [CycloneDX module for .NET](https://github.com/CycloneDX/cyclonedx-dotnet)
+- 🌱 I’m a co-maintainer of the [CycloneDX module for .NET](https://github.com/CycloneDX/cyclonedx-dotnet)
 - 👩‍💻 I'm a professional software engineer working mostly in the .NET ecosystem.
 - 📖 I'm learning about software security and pentesting.
 <!---
